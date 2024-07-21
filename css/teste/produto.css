@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: linear-gradient(45deg, #2b2e3b, #424242);
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    text-align: center;
+    padding: 1rem;
+}
+
+footer{
+    text-align: center;
+    background-color: #000000;
+    padding: 1rem;
+}
+
+h1 {
+    color: #c4ae66;
+}
+
+a {
+    color: #ff0505;
+    text-decoration: none;
+    border: 0.1rem solid #fff;
+    padding: 1rem;
+    padding-top: 10rem;
+    display: inline-block;
+    margin: 2rem;
+}
+
+.atu{
+    background-image: url(https://th.bing.com/th/id/OIP.4ZUp3sJlmzz5qtqorh5zXgAAAA?pid=ImgDet&w=199&h=298&c=7);
+    background-size: cover;
+}
+
+.king {
+    background-image: url(https://a-static.mlcdn.com.br/800x560/brinquedo-piano-eletronico-infantil-com-luz-e-sons-de-animais-dm-toys/vitorkids/6866712054/eb2e82a2a0754c439d96766cc169db17.jpeg);
+    background-size: cover;
+}
+
+.jao {
+    background-image: url(https://imagens.mdig.com.br/musica/instrumentos_musicais_estranhos_01.jpg);
+    background-size: cover;
+}
+
+.bia {
+    background-image: url(https://http2.mlstatic.com/D_NQ_NP_835817-MLB41583112485_042020-F.jpg);
+    background-size: cover;
+}
+
+.medo {
+    background-image: url(https://pbs.twimg.com/media/BpY3olpIAAAPZrx?format=jpg&name=small);
+    background-size: cover;
+}
+
+.vin {
+    background-image: url(https://http2.mlstatic.com/D_NQ_NP_732020-MLB75003934895_032024-O.webp);
+    background-size: cover;
+}
